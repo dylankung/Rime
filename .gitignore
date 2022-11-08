@@ -3,3 +3,4 @@ sync/
 luna_pinyin.userdb/
 *.command
 installation.yaml
+user.yaml
